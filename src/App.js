@@ -1,7 +1,7 @@
 import React,{ Component } from "react";
 
 import Navbar from "./components/Navbar/Navbar";
-import "./App.scss";
+import "./App.css";
 import "./components/TourList/TourList.scss";
 import TourList from "./components/TourList/Ind";
 

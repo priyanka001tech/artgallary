@@ -17,7 +17,7 @@ export default function Navbar() {
             </li>
             <li>
                 <a href="#" className="nav-link active">
-                    Tours
+                    Arts
                 </a>
             </li>
         </ul>
