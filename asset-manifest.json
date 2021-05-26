@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/artgallary/static/css/main.919d8edc.chunk.css",
+    "main.js": "/artgallary/static/js/main.26d477cf.chunk.js",
+    "main.js.map": "/artgallary/static/js/main.26d477cf.chunk.js.map",
+    "runtime-main.js": "/artgallary/static/js/runtime-main.b4118736.js",
+    "runtime-main.js.map": "/artgallary/static/js/runtime-main.b4118736.js.map",
+    "static/js/2.506f088f.chunk.js": "/artgallary/static/js/2.506f088f.chunk.js",
+    "static/js/2.506f088f.chunk.js.map": "/artgallary/static/js/2.506f088f.chunk.js.map",
+    "static/js/3.11ce857a.chunk.js": "/artgallary/static/js/3.11ce857a.chunk.js",
+    "static/js/3.11ce857a.chunk.js.map": "/artgallary/static/js/3.11ce857a.chunk.js.map",
+    "index.html": "/artgallary/index.html",
+    "static/css/main.919d8edc.chunk.css.map": "/artgallary/static/css/main.919d8edc.chunk.css.map",
+    "static/js/2.506f088f.chunk.js.LICENSE.txt": "/artgallary/static/js/2.506f088f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4118736.js",
+    "static/js/2.506f088f.chunk.js",
+    "static/css/main.919d8edc.chunk.css",
+    "static/js/main.26d477cf.chunk.js"
+  ]
+}
