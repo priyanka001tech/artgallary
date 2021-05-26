@@ -1,0 +1,60 @@
+.tour{
+    background-color: rgb(248, 228, 228);
+    border-radius: 0.8rem;
+    margin: 1.5rem 0;
+    img{
+        margin :2rem 2rem;
+        width:87%;
+        max-height:auto;
+        border-top-left-radius: 0.8rem ;
+        border-top-right-radius: 0.8rem;
+        display:block;
+    }
+}
+
+.img-container{
+    position: relative;
+
+}
+.classbtn{
+    position: absolute;
+    display: block;
+    top:5%;
+    right: 5%;
+    font-size: 2rem;
+    cursor: pointer;
+    transition: all 0.3s linear;
+    opacity: 0;
+}
+
+.img-container:hover .classbtn{
+    opacity: 1;
+}
+.tour-info{
+    padding: 1rem 0.5rem;
+    overflow: auto;
+    h2{
+        color:firebrick;
+        float:right;
+    }
+    h3{
+        text-transform: uppercase;
+        color:peru;
+    }
+    h4{
+        text-transform: uppercase;
+        color:brown; 
+        margin:0.2rem 0 0.6rem 0;
+
+    }
+    h5{
+        text-transform: uppercase;
+        color:rgb(247, 97, 97); 
+        span{
+            color:rgb(247, 97, 97); 
+            margin: 0.5rem;
+            font-size:1.2rem;
+            cursor: pointer;
+        }
+    }
+}
