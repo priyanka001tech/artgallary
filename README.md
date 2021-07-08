@@ -1,3 +1,7 @@
+Your site is published at https://priyanka001tech.github.io/artgallary/
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
