@@ -17,7 +17,7 @@ export default function Navbar() {
             </li>
             <li>
                 <a href="#" className="nav-link active">
-                    Arts
+                    Arts 
                 </a>
             </li>
         </ul>
